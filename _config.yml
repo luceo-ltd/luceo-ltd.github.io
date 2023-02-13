@@ -1,0 +1,11 @@
+title: Luceo
+paginate: 10
+# url: "xxx"
+
+username: Luceo
+
+email: ben@luceo.ltd
+linkedin_username: bsnape
+github_username:  bsnape
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
